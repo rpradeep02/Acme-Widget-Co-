@@ -32,7 +32,7 @@ cd acme-widget-co
 For quick experimentation, you can load the library files directly in IRB:
 
 ```bash
-cd path/to/acme-checkout             # your project directory
+cd path/to/acme-widget-co            # your project directory
 irb                                   # start IRB
 ```
 
