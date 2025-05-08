@@ -21,7 +21,7 @@ Implement a small Ruby checkout system that:
 Clone the repo and install dependencies (if any):
 
 ```bash
-git clone https://github.com/your-username/acme-checkout.git
+git clone https://github.com/rpradeep02/Acme-Widget-Co-.git
 cd acme-widget-co
 ```
 
